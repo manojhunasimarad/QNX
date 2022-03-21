@@ -1,7 +1,11 @@
 Build Safe, Secure and Reliable Embedded Systems
-BlackBerry® QNX® provides the operating systems, hypervisors(A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.) , tools, services and support you need to build critical embedded systems.
+BlackBerry® QNX® provides the operating systems, hypervisors(A hypervisor, also known as a virtual machine monitor or VMM, 
+is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest 
+VMs by virtually sharing its resources, such as memory and processing.) , tools, services and support you need to build 
+critical embedded systems.
 
-Our focus on new feature releases, safety certifications and security updates allows you to focus on innovation instead of keeping up with 
+Our focus on new feature releases, safety certifications and security updates allows you to focus on innovation instead
+of keeping up with 
 OS maintenance and updates.
 QNX Neutrino RTOS
 QNX Hypervisor
@@ -9,17 +13,21 @@ QNX Software Development Platform
 
 
 QNX OS for Safety
-Built on the same microkernel architecture as the QNX Neutrino RTOS, the QNX® OS for Safety is pre-certified to IEC 61508, ISO 26262 and 
-IEC 62304. Easily port Linux-based prototypes to the QNX multi-core, real-time OS (RTOS) and get all the documentation and support you
+Built on the same microkernel architecture as the QNX Neutrino RTOS, the QNX® OS for Safety is pre-certified to IEC 61508, 
+ISO 26262 and 
+IEC 62304. Easily port Linux-based prototypes to the QNX multi-core, real-time OS (RTOS) and get all the documentation 
+and support you
 need for certification efforts.
 
 
 QNX Hypervisor for Safety
-This real-time microkernel hypervisor provides the reliability and performance of the QNX operating system, and enables multiple OSs
+This real-time microkernel hypervisor provides the reliability and performance of the QNX operating system, and enables 
+multiple OSs
 to safely operate in isolation on the same SoC. It is the first embedded hypervisor pre-certified to ISO 26262 ASIL D.
 
 QNX Black Channel Communications Technology
-Designed to meet or exceed the highest functional safety standards and certified to ISO 26262 ASIL D, this solution uses a black channel 
+Designed to meet or exceed the highest functional safety standards and certified to ISO 26262 ASIL D, this solution
+uses a black channel 
 approach to ensure that communication exchanges are safe and that data is not altered or impacted during transmission.
 
 
@@ -29,19 +37,24 @@ Operating System (RTOS)
 Proven reliability, performance, security.
 
 QNX Neutrino RTOS 7.1
-Since 1980, thousands of companies have deployed QNX® real-time operating systems to ensure the ideal combination of performance, 
+Since 1980, thousands of companies have deployed QNX® real-time operating systems to ensure the ideal 
+combination of performance, 
 security and reliability in mission-critical systems. At the core of QNX technology is the QNX® Neutrino®
 Real-Time Operating System (RTOS), a fully featured RTOS enabling next-generation products in every industry
-where reliability matters, including automotive, medical devices, robotics, transportation and industrial embedded systems.
+where reliability matters, including automotive, medical devices, robotics, transportation and 
+industrial embedded systems.
 
 Microkernel Reliability
-The QNX Neutrino RTOS microkernel isolates every application, driver, protocol stack and filesystem in its own 
-address space outside the kernel. A failed component won’t take down other components or the kernel; it can be 
+The QNX Neutrino RTOS microkernel isolates every application, driver, protocol stack and 
+filesystem in its own 
+address space outside the kernel. A failed component won’t take down other components or
+the kernel; it can be 
 restarted immediately, with minimal impact on performance.
 
 Add new hardware or drivers, confident a driver failure won’t result in a system failure.
 A high-availability manager can perform multistage recovery when services or processes fail.
-Our architecture enabled us to safety-certify QNX® OS for Safety, so you can focus on what you build—not the OS 
+Our architecture enabled us to safety-certify QNX® OS for Safety, so you can focus on what 
+you build—not the OS 
 you built it on.
 
 https://blackberry.qnx.com/en/products/foundation-software/qnx-rtos
@@ -50,10 +63,12 @@ https://blackberry.qnx.com/en/products/foundation-software/qnx-rtos
 Real-Time Availability
 System resources are available when needed and tasks complete when they are supposed to.
 
-Designed to scale on the newest ARM and x86 multicore systems on a chip (SoCs), the QNX Neutrino RTOS supports 
+Designed to scale on the newest ARM and x86 multicore systems on a chip (SoCs), the QNX 
+Neutrino RTOS supports 
 asymmetric multiprocessing and symmetric multiprocessing (SMP), as well as bound multiprocessing, a
 QNX improvement on standard SMP.
-Our adaptive partitioning enables critical processes to get the CPU cycles they need. You configure 
+Our adaptive partitioning enables critical processes to get the CPU cycles they need. 
+You configure 
 time partitions, so that processes that need additional power can access unused cycles from other 
 processes’ budgets.
 
