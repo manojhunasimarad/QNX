@@ -1,5 +1,6 @@
 Build Safe, Secure and Reliable Embedded Systems
-BlackBerry® QNX® provides the operating systems, hypervisors, tools, services and support you need to build critical embedded systems.
+BlackBerry® QNX® provides the operating systems, hypervisors(A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs). A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing.) , tools, services and support you need to build critical embedded systems.
+
 Our focus on new feature releases, safety certifications and security updates allows you to focus on innovation instead of keeping up with 
 OS maintenance and updates.
 QNX Neutrino RTOS
