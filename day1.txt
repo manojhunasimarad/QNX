@@ -37,3 +37,31 @@ QNX  neutriono persistent publish/subscribe
 character I/O
 networking
 cryptography Support
+
+
+QNX 
+interfacef microkernel objects
+threads       thread
+sched   connection
+synchronisation services:
+semaphores
+mutual exclusion locks(mutex)
+
+
+threads and process
+
+
+
+
+
+
+
+
+
+thread scheduling
+special ideal thread
+scheduling policies:
+FIFO
+roundrobin
+sporadic scheduling
+
