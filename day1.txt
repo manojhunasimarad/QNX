@@ -1,0 +1,39 @@
+POSIX API supported OS can be compiled and run in autosar.
+microlernel
+in QNX we can remove and add/remove service/packages in os dynamically 
+
+based on microkernel conecpt
+latest 7.1 6.6 is mostly popularly
+QNX neutrino 
+
+
+
+
+microkernel OS architecture
+hardware
+basic interprocesscommunication
+virtual meme
+sched
+
+
+
+
+
+
+microkernel vs monolothic kernel
+
+
+qnx RTOS architecture
+software bus qnx neutrino microkernel
+process manager flash manager power
+
+
+qnx neutrino microkernel
+IPC
+process manager
+RESOURCE MANAGERS
+filesystems
+QNX  neutriono persistent publish/subscribe
+character I/O
+networking
+cryptography Support
