@@ -7,7 +7,7 @@ a need for virtualization to manage multiple OSs and mixed criticality. As the a
 BlackBerry® QNX® software is used in more than 195 million vehicles on the road. Automakers and Tier 1s around the world 
 trust BlackBerry QNX to help them build safe, secure and reliable automotive systems.
 
-[https://github.com/manojhunasimarad/QNX.wiki.git]
+
 
 Build Safe, Secure and Reliable Embedded Systems
 BlackBerry® QNX® provides the operating systems, hypervisors(A hypervisor, also known as a virtual machine monitor or VMM, 
