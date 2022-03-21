@@ -1,7 +1,11 @@
 Virtualization and RTOS for Automotive Systems
-The electronic architecture of the vehicle has evolved from being hardware-driven to software-defined. Everything from digital cockpits, to advanced driver assistance systems (ADAS), to automated drive controllers, now runs on a single system on a chip (SoC), and often drive a need for virtualization to manage multiple OSs and mixed criticality. As the amount of software and automation in the car grows, meeting functional safety standards and cybersecurity regulations like WP.29 becomes more challenging—and more critical to success.
+The electronic architecture of the vehicle has evolved from being hardware-driven to software-defined. Everything from digital cockpits,
+to advanced driver assistance systems (ADAS), to automated drive controllers, now runs on a single system on a chip (SoC), and often drive 
+a need for virtualization to manage multiple OSs and mixed criticality. As the amount of software and automation in the car grows
+, meeting functional safety standards and cybersecurity regulations like WP.29 becomes more challenging—and more critical to success.
 
-BlackBerry® QNX® software is used in more than 195 million vehicles on the road. Automakers and Tier 1s around the world trust BlackBerry QNX to help them build safe, secure and reliable automotive systems.
+BlackBerry® QNX® software is used in more than 195 million vehicles on the road. Automakers and Tier 1s around the world 
+trust BlackBerry QNX to help them build safe, secure and reliable automotive systems.
 
 
 
