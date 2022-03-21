@@ -65,3 +65,46 @@ FIFO
 roundrobin
 sporadic scheduling
 
+
+
+Clock
+Timers
+
+Interrupt latenct
+schedule latency
+
+
+interupt handling API
+
+
+IPC
+message passing   kernel
+signals   kernel
+posix messade   external process
+shared memory
+pipes    external process
+FIFO   external process
+pulse
+Events
+i/o notifications
+
+
+msgsend()
+msgreceivwe()
+MEssage passing API
+
+
+
+
+Process manager
+procnto
+
+
+processmanagement
+spawn- qnx neutrino
+fork -posix
+exec*
+posix_spawn
+
+
+pathname management
